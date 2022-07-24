@@ -1,0 +1,1 @@
+print("hey guys, I'm Yuval Valency,  I love CS and am really looking ofrward to a a challenging CS project. I also love to read so if any of you have read any works by Brandon Sanderson PLEASE tell me (The Stromlight Archive, Mistborn. Elatris etc.)")
